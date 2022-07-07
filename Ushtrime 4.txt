@@ -1,0 +1,29 @@
+Hierarkia e template
+Nje renditje e elementeve ne baze te rendesise, index.php eshte ne krye te hierarkis.
+
+single.php eshte pergjegjese per mi render postet 
+singular.php eshte pas singlephp
+
+Post formatet jane kategorizime te formateve te posteve (site, gallery, image) dhe jane opsionale ne WP
+Post formatet perdoren vetem nese ne duam te ndryshojm ndonje gje ne post.
+
+wphierarchy.com
+
+Si ti bejm enable Post formatet?
+add_theme_support
+title_tag = e nderron titullin ne varesi te permbajtjes
+
+post formatet jane default te paracaktuara
+
+get_templete_part (per mos me shkru te njejtin kod shum her)
+
+the_post() e rrit indexin dhe shkon deri ne fund
+
+esc_html__e('404 page not found','neoubt') e krijojm nje funksion edhe ia dergojm tekstin si input, e merr nga gjdo gjuh.
+
+the_ID(); e marrim ID e post
+post_class(); e marrim klasen
+the_title(); e marrim titullin
+
+
+

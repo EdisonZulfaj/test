@@ -1,0 +1,17 @@
+MOnolithic:
+(I tere app eshte nje)behet deploy si nje i vetem
+Ui
+Business Logic
+Data access layer
+(Perparesite: Thjeshtesia, testimi, deploy
+Per Moodle, Portlae te lajmeve, per shum web app te tjera
+
+Master/Master te tri databazat mund te pranojn write dhe duhet te sinkronizohen njera me tjetren
+Master/Slave instanca e par i pranon write ajo tjerat japin read
+
+Microservices
+(Ndarja ne shum pjes te vogla ku secila e kryen nje funksion te caktuar)
+Shpejtesia
+(Me e veshtir me ja nis por me vone ka shum benefite per features)
+
+Docker - platform qe punon me containers

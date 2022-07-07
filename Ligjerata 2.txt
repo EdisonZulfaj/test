@@ -1,0 +1,14 @@
+CMS eshte nje pjese e pandashme e web-pages
+Server side
+Client side
+IS
+Hosting
+Servers
+OS
+
+Client eshte (Browseri IP-adres te caktuar)
+Pannels (Cpannel, Desk)
+
+CMS(Word Press, Drupal, Joompla, SquareSpace...)
+
+Word Press ka shume pluginsa nje nder ta (WooCommerce- shoping online)

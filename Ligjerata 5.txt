@@ -1,0 +1,55 @@
+Web Services
+
+SOAP/HTTP/REST
+SOAP - eshte protokoll
+HTTP - per hapjen e web faqev nevojitet http, eshte protokoll standard qe perdoret ne web
+REST - eshte nje stil arkitektural
+
+Serviset perdoren per komunikim (marrim response ne nje forme te caktuar [XMP, JSON])
+
+Avantazhet e Web serviseve
+Mundesojne komunikim ndermjet teknologjive te ndryshme
+Optimizimi i sherbimeve
+Interoperability - (komunikimi mes platforma te ndryshme [cross platform])
+Usability 		
+Reusability 	
+Deployability 	
+
+Llojet e Web Serviseve
+1. SOAP Web Services (Simple Object Access Protocol)
+	perdor formatin WSDL
+	Financa, Telekomunikacion, Pagesa Online
+2. REST (Representational State Transfer) 
+	e perdor http
+	Perdor JSON
+	Eshte me i leht per tu implementuar
+	Social Media, Web Chat, Mobile
+
+REST uses Hhttp
+http methods (GET, PUT, DELETE, POST, GET{id}, HEADER)
+
+API (Application Programming Interface)
+Interface per komunikim mes komponentave
+Ne Web Sherbime shum aplikacione mund ta perdorin te njejtin API 
+Te njejtin Backend permes APIs e perdorin te gjitha app qe u nevojitet komunikimi me ate server
+../wp-json/wp/2 (per ti shikuar te gjitha API-s
+
+JSON Values
+array
+boolean
+number
+string
+an object (json object) [objekt mrena objektit]
+null
+
+
+GraphQL nga Facebook
+
+Detyre
+Merrni te dhena nga projektet e me hershme PHP JSON
+
+
+
+
+
+

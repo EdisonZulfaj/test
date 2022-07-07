@@ -1,0 +1,31 @@
+CMS teknlogji qe te ndohmojn me zhvillu nje WEB
+nje nder ta eshte Wordpress
+
+Ne disa projekte CMSs nuk jane zgjidhja optimale
+Duhet te vazhdohet me ndertu from scratch
+
+Docker perdoret na hyn ne pun kur bejm deploy nje softuer
+
+We Teknologjit
+CMS Content Management System
+Servet-side Language
+Client-side Language
+JavaScript Libraries
+Markup Languages
+Web Hosting
+Web Servers
+Operating Systems
+AWS
+Azure
+
+
+Arkitektura Monolitike - Tregon qe eshte nje (mono) e dim qe gjithqka eshte e krijuar si nje e vetme, i ter softueri ofrohet si nje pjes e vetme.
+Kur e bojm deploy behet i teri menjeher, nje ndryshim i vetem mund te kete impact ne tere app
+
+Arkitektura Microservice - Kur app ndahet ne pes me te vogla ku secila pjes e ka databazen e vet, ato kompnikojn njera me tjetren me APIs (Restaurant: Menu, Costumer, Pagesat)
+Eshte e thesht mu zhvillu, edhe kur e bajm deploy Zip upload unzip.
+
+Docker - Enterprise Application Container Platform
+
+
+

@@ -1,0 +1,31 @@
+/*
+ Theme Name:   Twenty twenty one child
+ Theme URI:    http://ubt-uni.net/twenty-twenty-one-child/
+ Description:  Twenty twenty one child Theme
+ Author:       UBT gjen 2019-2020
+ Author URI:   http://ubt-uni.net
+ Template:     twentytwentyone
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentytwentyonechild
+*/
+
+div#page {
+    background-color: yellow;
+}
+
+.promotion {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1rem;
+    background-color: orange;
+    padding: 0.25rem 0.5rem;
+}
+
+.promotion a {
+    text-decoration: none;
+    color: white;
+}
